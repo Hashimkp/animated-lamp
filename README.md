@@ -1,5 +1,7 @@
 # [Screenshotit_bot](https://tx.me/screenshotit_bot)
 
+# Easy Method
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Hashimkp/animated-lamp/tree/master) 
 > Telegram Bot For Screenshot Generation.
 
 ## Description
